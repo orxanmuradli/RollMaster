@@ -10,7 +10,7 @@ const Blog = () => {
     <div className="blog">
     <div className="blog-tittle">
      
-     <h1>BLOQ</h1>
+     <h1>BLOG</h1>
      <div className="styles">
       <div className='style'>
       <img src={blog} alt="" />
