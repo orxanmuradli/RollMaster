@@ -1,0 +1,34 @@
+.specialmenu-carts{
+    display: flex;
+    
+    padding: 40px;
+    gap: 28px;
+   
+    justify-content: space-between;
+    text-align: center
+    
+    
+  
+}
+
+
+.specialmenu-tittle h3{
+    color: #DE4320;
+    padding-left: 40px;
+    font-family: 'Anton', sans-serif;
+    
+    
+}
+
+.specialcart img{
+    width: 100%;
+}
+
+.specialcart{
+    width: 33%;    
+   cursor: pointer;
+}
+
+.specialcart price{
+    color: #DE4320;
+}
