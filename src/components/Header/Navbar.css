@@ -8,12 +8,7 @@ justify-content: space-between;
  .leftSide{
     padding-left: 40px;
 }
- .leftSide img{
-   padding-top: 12px;
-   width: 163px;
-   height: 73px;
-    
-}
+ 
 
  .rightSide{
   padding-top: 41px;
@@ -21,9 +16,22 @@ justify-content: space-between;
   display: flex;
  gap: 40px;
  padding-bottom: 8px;
+  
+}
+
+.rightSide img{
+  width: 23px;
+  height: 26px;
+  margin-top: 6px;
+  font-family: 'Anton', sans-serif;
+  font-size: 24px;
+  color: #201F22;
  
 
+
 }
+
+
 
 .navbar a{
    color: #201F22;

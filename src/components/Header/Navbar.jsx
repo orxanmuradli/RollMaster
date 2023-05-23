@@ -1,6 +1,9 @@
 import Logo from "../../assets/logo.png";
 import {Link} from "react-router-dom";
 import './navbar.css'
+import search from "../../assets/search.png";
+
+
 const Header = () => {
   return (
     <div className='navbar'>
@@ -8,7 +11,9 @@ const Header = () => {
         <img src={Logo}  />
       </div>
       <div className='rightSide'>
+   
      <Link to="/"></Link>
+     <img src={search} alt="" />
      <Link to="/MENYU">MENYU</Link>
      <Link to="/KAMPANİYALAR">KAMPANİYALAR</Link>
      <Link to="/HAQQIMIZDA">HAQQIMIZDA</Link>

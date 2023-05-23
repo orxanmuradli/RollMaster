@@ -99,13 +99,18 @@ border-left: 1px solid black;
    font-size: 24px;
    line-height: 36px;
    border-right: 1px solid #201f22;
+   margin-left: -22px;
 }
 
 .lefting1{
     padding: 20px;
     border-right: 1px solid #201f22;
+  
 }
 
+.lefting1 p{
+    margin-left: 20px;
+}
 .righting2{
     padding: 20px;
 }
@@ -135,7 +140,7 @@ border-left: 1px solid black;
 
 .wolt{
     border-right: 1px solid #201f22;
-    padding: 20px 22px;
+    padding: 25px 22px;
 }
 
 .header_link{
@@ -171,7 +176,7 @@ font-family: 'Anton', sans-serif;
     line-height: 72px;
     letter-spacing: 0em;
     display: flex;
-    padding: 15px 30px;
+    padding: 10px 56px;
     height: 350px;
     width: 696px;
     margin-top: 115px;
@@ -185,3 +190,4 @@ border-radius: undefinedpx;
 .lorems .red {
 color: #de4320;
 }
+

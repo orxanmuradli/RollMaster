@@ -25,6 +25,8 @@ const footer = () => {
             <span2>ROLL MASTER © 2023 BÜTÜN HÜQUQLAR QORUNUR</span2>
             </div>
             <div className='right-content'>
+
+              
           <p>Created by </p> <span className='green'>Claradix</span>
             </div>
         </div>

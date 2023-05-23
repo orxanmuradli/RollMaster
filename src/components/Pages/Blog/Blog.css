@@ -25,16 +25,19 @@
 .style{
     width: 33%;
     cursor: pointer;
+   
 }
 
 .style img{
     width: 100%;
     gap: 30px;
     /* background-size: cover; */
+    
 }
 
 .style span{
     font-size: 24px;
     font-family: 'Anton', sans-serif;
     font-weight: 400;
+  
 }

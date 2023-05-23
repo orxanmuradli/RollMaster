@@ -2,7 +2,8 @@ import "./home.css";
 import insta from "../../../assets/insta.png";
 import face from "../../../assets/face.png";
 import arrow from "../../../assets/arrow-right.png";
-import bolt from "../../../assets/bolt-food.png";
+import darkmood from "./../../../assets/darkmood.png";
+
 
 import wolt from "../../../assets/wolt.png";
 function Home() {
@@ -34,7 +35,7 @@ function Home() {
             </div>
           </div> */}
           <div className="header_link">
-            <a className="link_rectangle" href="#">MENYUYA KEÇİD ET <img className="arrow-icons" src={arrow} alt="arrow_icon" /></a>
+            <a className="link_rectangle" href="#">MENYUYA KEÇİD ET <img className="arrow-icons" src={arrow} alt="" /></a>
           </div>
         </div>
       </div>
@@ -47,24 +48,24 @@ function Home() {
           </div>
           <div className="righting2">
             {" "}
-            <span>+994 55 390 90 13</span>
+            <span>+994 50 736 56 16</span>
           </div>
         </div>
 
         <div className="right">
           <div className="insta">
-            <img src={insta} alt="" />
+            <img src={darkmood} alt="" />
           </div>
           <div className="face">
-            <img src={face} alt="" />
+            <img src={insta} alt="" />
           </div>
 
           <div className="wolt">
-            <img src={wolt} alt="" />
+            <img src={face} alt="" />
           </div>
           <div className="content">
             <div className="bolt">
-              <img src={bolt} alt="" />
+              <img src={wolt} alt="" />
             </div>
           </div>
         </div>
@@ -75,6 +76,9 @@ function Home() {
           Egestas quis suscipit leo elementum amet.
         </h1>
       </div>
+
+
+      
     </section>
     
   );
