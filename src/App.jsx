@@ -8,6 +8,7 @@ import Footer from "./components/Footer/Footer";
 // import Menu from './components/Pages/Menu/Menu';
 // import Menu from './components/Pages/Menu/Menu';
 function App() {
+  console.log('test test')
   return (
     <div className="App">
       <Router>
