@@ -16,8 +16,8 @@ function App() {
         <Routes>
           <Route path="/" exact Component={Home} />
         </Routes>
-      
-<PopularPage/>
+     
+       <PopularPage/>
         <Blog />
         <Footer />
       </Router>
