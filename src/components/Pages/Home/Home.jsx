@@ -1,4 +1,4 @@
-import "./home.css";
+import "./Home.css";
 import insta from "../../../assets/insta.png";
 import face from "../../../assets/face.png";
 import arrow from "../../../assets/arrow-right.png";
