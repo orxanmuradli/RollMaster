@@ -1,7 +1,7 @@
 import sushi from '../../../../assets/sushi.png';
 import noodle from '../../../../assets/noodle.png';
 import spring from '../../../../assets/spring.png';
-import "./PopularPage"
+import "./PopularPage.css"
 
 
 const PopularPage = () => {

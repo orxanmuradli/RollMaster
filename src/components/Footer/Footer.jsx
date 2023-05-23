@@ -22,7 +22,7 @@ const Footer = () => {
             </div>
             <div className="footer-bottom">
         <div className="left-content">
-            <span2>ROLL MASTER © 2023 BÜTÜN HÜQUQLAR QORUNUR</span2>
+            <span>ROLL MASTER © 2023 BÜTÜN HÜQUQLAR QORUNUR</span>
             </div>
             <div className='right-content'>
 
