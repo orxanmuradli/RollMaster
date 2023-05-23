@@ -16,7 +16,7 @@ return <div className='App'>
   <Routes>
     <Route path='/' exact Component={Home}/>
   </Routes>
-  <Popular/>
+ <Popular/>
   
   <Blog/>
   <Footer/>
