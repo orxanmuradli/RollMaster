@@ -5,7 +5,7 @@ import Home from './components/Pages/Home/Home';
 import Popular from './components/Pages/Home/Popular/popular';
 import Blog from './components/Pages/Blog/Blog';
 
-import Footer from './components/Footer/footer';
+import Footer from './components/Footer/Footer';
 // import Menu from './components/Pages/Menu/Menu';
 // import Menu from './components/Pages/Menu/Menu';
 function App() {

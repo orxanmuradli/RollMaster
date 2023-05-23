@@ -3,7 +3,7 @@ import face from '../../assets/face.png';
 import './footer.css'
 
 
-const footer = () => {
+const Footer = () => {
   return (
     <div className="footer-content">
        <div className="footer-top">
@@ -34,4 +34,4 @@ const footer = () => {
   )
 }
 
-export default footer
+export default Footer
