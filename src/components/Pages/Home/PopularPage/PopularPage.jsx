@@ -1,10 +1,10 @@
 import sushi from '../../../../assets/sushi.png';
 import noodle from '../../../../assets/noodle.png';
 import spring from '../../../../assets/spring.png';
-import "./Popular.css"
+import "./PopularPage"
 
 
-const Popular = () => {
+const PopularPage = () => {
   return (
     <div className="popular">
       <div className="popular-tittle">
@@ -36,5 +36,5 @@ const Popular = () => {
   )
 }
 
-export default Popular
+export default PopularPage
 
