@@ -1,6 +1,6 @@
 import Logo from "../../assets/logo.png";
 import {Link} from "react-router-dom";
-import './navbar.css'
+import './Navbar.css'
 import search from "../../assets/search.png";
 
 
